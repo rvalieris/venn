@@ -1,0 +1,33 @@
+
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-family: sans-serif;
+}
+
+#wrap {
+	padding: 0 15px;
+	height: 100%;
+}
+
+#form {
+	padding-right: 0;
+}
+
+#form input {
+	display: inline-block;
+}
+
+#main {
+	height: 100%;
+}
+
+#venn_diagram {
+	height: 100%;
+}
+
+#width_control, #height_control {
+	width: 50%;
+}
